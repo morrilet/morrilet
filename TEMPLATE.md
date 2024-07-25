@@ -65,10 +65,10 @@ I'm **currently looking for new opportunities**, so if you've got something cool
 * ⌨️ I've pushed **{{ COMMITS }}** commits
 * 📃 I own **{{ REPOSITORIES }}** repositories
 
-My top 4 most used languages on GitHub are:
+My top 8 most used languages on GitHub are:
 
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_START:max=8 }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
 

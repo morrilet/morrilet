@@ -24,6 +24,11 @@ I'm **currently looking for new opportunities**, so if you've got something cool
 * ⚔️ Historical fencing
 * 🎮 Game jams
 
+## Some fun stats
+* 🕙 I've been on GitHub for **{{ ACCOUNT_AGE }}** years
+* 💪 I've pushed **{{ COMMITS }}** commits
+* 📌 I own **{{ REPOSITORIES }}** repositories
+
 ## Languages and Tools
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -59,19 +64,6 @@ I'm **currently looking for new opportunities**, so if you've got something cool
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-## Some fun facts
-
-* 🕙 I've been on GitHub for **{{ ACCOUNT_AGE }}** years
-* ⌨️ I've pushed **{{ COMMITS }}** commits
-* 📃 I own **{{ REPOSITORIES }}** repositories
-
-My top 8 most used languages on GitHub are:
-
-{{ LANGUAGE_TEMPLATE_START:max=8 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
-
-
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=morrilet"/>
+<img src="https://komarev.com/ghpvc/?username=morrilet&style=for-the-badge&color=brightgreen"/>

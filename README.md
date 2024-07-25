@@ -24,6 +24,11 @@ I'm **currently looking for new opportunities**, so if you've got something cool
 * ⚔️ Historical fencing
 * 🎮 Game jams
 
+## Some fun stats
+* 🕙 I've been on GitHub for **10** years
+* 💪 I've pushed **1452** commits
+* 📌 I own **53** repositories
+
 ## Languages and Tools
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -59,24 +64,6 @@ I'm **currently looking for new opportunities**, so if you've got something cool
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-## Some fun facts
-
-* 🕙 I've been on GitHub for **10** years
-* ⌨️ I've pushed **1451** commits
-* 📃 I own **53** repositories
-
-My top 8 most used languages on GitHub are:
-
-![C#](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B159.5%25)
-![HTML](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B119.6%25)
-![ASP](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%236a40fd&message=ASP%EF%B8%B16.1%25)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B15.7%25)
-![ShaderLab](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%23222c37&message=ShaderLab%EF%B8%B14.9%25)
-![HLSL](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%23aace60&message=HLSL%EF%B8%B10.7%25)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.6%25)
-![Other](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.6%25)
-
-
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=morrilet"/>
+<img src="https://komarev.com/ghpvc/?username=morrilet&style=for-the-badge&color=brightgreen"/>

@@ -15,9 +15,9 @@
 
 I'm a **full stack software engineer** with a soft spot for the backend. I got my start as a freelance game developer, which gave me the opportunity to get hands-on with just about every facet of interactive media. I've worked on multiplayer networking, animations, visual effects, and gameplay programming, to name a few. My time as a freelancer granted me a **strong client focus and entrepreneurial spirit** that I've nurtured ever since.
 
-More recently I've been building **SaaS and eCommerce web applications** in the finance and entertainment industries, plus building side-projects and running a microscopic game studio on the side.
+More recently I've been building **SaaS and eCommerce web applications** in the finance and entertainment industries, plus building side-projects and running a microscopic game studio nearing the release of it's first commercial title, [Dice to Meet You](https://store.steampowered.com/app/2597140/Dice_to_Meet_You/).
 
-I'm **currently looking for new opportunities**, so if you've got something cool you're working on I'd love to connect!
+I'm **currently looking for new opportunities**, so if you've got something cool you're working on [I'd love to connect](https://morrillplou.me/contact/)!
 
 ## Here's what I'm into
 * 🌄 Rock climbing

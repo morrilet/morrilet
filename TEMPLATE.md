@@ -1,6 +1,7 @@
 
 ## :wave: Hey there! I'm Ethan.
 
+<div style="float: left">
 <a href="https://github.com/morrilet" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -10,6 +11,8 @@
 <a href="https://twitter.com/morrilet" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=morrilet&style=for-the-badge&color=brightgreen"/>
+</div>
 
 ### It's good to meet you!
 
@@ -63,7 +66,3 @@ I'm **currently looking for new opportunities**, so if you've got something cool
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=morrilet&style=for-the-badge&color=brightgreen"/>

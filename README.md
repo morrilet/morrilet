@@ -20,7 +20,7 @@ I'm a **full stack software engineer** with a soft spot for the backend. I got m
 
 More recently I've been building **SaaS and eCommerce web applications** in the finance and entertainment industries, plus building side-projects and running a microscopic game studio nearing the release of it's first commercial title, [Dice to Meet You](https://store.steampowered.com/app/2597140/Dice_to_Meet_You/).
 
-I'm **currently looking for new opportunities**, so if you've got something cool you're working on [I'd love to connect](https://morrillplou.me/contact/)!
+I'm **currently looking for new opportunities**, so if you've got something cool you're working on [let's chat](https://morrillplou.me/contact/)!
 
 ## Here's what I'm into
 * 🌄 Rock climbing
@@ -29,7 +29,7 @@ I'm **currently looking for new opportunities**, so if you've got something cool
 
 ## Some fun stats
 * 🕙 I've been on GitHub for **10** years
-* 💪 I've pushed **1459** commits
+* 💪 I've pushed **1467** commits
 * 📌 I own **54** repositories
 
 ## Languages and Tools

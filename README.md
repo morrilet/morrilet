@@ -29,8 +29,8 @@ I'm **currently looking for new opportunities**, so if you've got something cool
 
 ## Some fun stats
 * 🕙 I've been on GitHub for **10** years
-* 💪 I've pushed **1467** commits
-* 📌 I own **54** repositories
+* 💪 I've pushed **1468** commits
+* 📌 I own **55** repositories
 
 ## Languages and Tools
 <div align="center">  

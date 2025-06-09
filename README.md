@@ -16,9 +16,9 @@
 
 ### It's good to meet you!
 
-I'm a **full stack software engineer** with a soft spot for the backend and a passion for building scalable SaaS, eCommerce, and data-driven web applications. My experience ranges from leading greenfield projects and automating workflows to mentoring teams and optimizing system performance - always with a focus on ownership, quality, and continuous learning. I thrive in collaborative environments where I can solve complex challenges and deliver impactful results. Before web development I worked in games, where I ran a freelance business from the back of a classroom.
+I'm a **full stack software engineer** with a soft spot for the backend. I got my start as a freelance game developer, which gave me the opportunity to get hands-on with just about every facet of interactive media. I've worked on multiplayer networking, animations, visual effects, and gameplay programming, to name a few. My time as a freelancer granted me a **strong client focus and entrepreneurial spirit** that I've nurtured ever since.
 
-I've worked in finance, entertainment, and cybersecurity, and consider myself a type-casted generalist. I'm also running a microscopic game studio nearing the release of it's first commercial title, [Dice to Meet You](https://store.steampowered.com/app/2597140/Dice_to_Meet_You/) and experimenting with AI-powered tools on the side.
+More recently I've been building **SaaS and eCommerce web applications** in the finance and entertainment industries, plus building side-projects and running a microscopic game studio nearing the release of it's first commercial title, [Dice to Meet You](https://store.steampowered.com/app/2597140/Dice_to_Meet_You/).
 
 I'm **currently looking for new opportunities**, so if you've got something cool you're working on [let's chat](https://morrillplou.me/contact/)!
 
@@ -28,9 +28,9 @@ I'm **currently looking for new opportunities**, so if you've got something cool
 * 🎮 Game jams
 
 ## Some fun stats
-* 🕙 I've been on GitHub for **10** years
-* 💪 I've pushed **1470** commits
-* 📌 I own **55** repositories
+* 🕙 I've been on GitHub for **11** years
+* 💪 I've pushed **1533** commits
+* 📌 I own **56** repositories
 
 ## Languages and Tools
 <div align="center">  

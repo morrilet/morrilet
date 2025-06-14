@@ -29,7 +29,7 @@ I'm **currently looking for new opportunities**, so if you've got something cool
 
 ## Some fun stats
 * 🕙 I've been on GitHub for **11** years
-* 💪 I've pushed **1600** commits
+* 💪 I've pushed **1602** commits
 * 📌 I own **56** repositories
 
 ## Languages and Tools
